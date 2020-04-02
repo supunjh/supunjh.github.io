@@ -1,0 +1,37 @@
+@charset "utf-8";
+/* CSS Document */
+
+body
+{
+	background-color:steelblue}
+
+h3
+{
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color:#3D0BB3
+		
+}
+h4
+{
+	color:#B5191C	
+}
+a:link,a:visited
+{
+	center;
+	display:contents;
+	font-weight: bold;
+	color: darkred;
+	width: 120px;
+	text-align: center;
+	padding: 4px;
+	text-transform: uppercase;
+	
+}
+
+div.pic
+{
+	margin: 20px;
+	width: 500px;
+	height: 200px;
+	float: left
+}
